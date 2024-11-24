@@ -35,7 +35,7 @@
         <repository>
             <id>github</id>
             <!-- TODO: замените на ваши значнения -->
-            <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+            <url>https://maven.pkg.github.com/YRufina/6_03_java</url>
         </repository>
     </distributionManagement>
 </project>
